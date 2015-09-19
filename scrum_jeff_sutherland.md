@@ -16,3 +16,11 @@ In this cas *"the reports become, more important than the reality they’re supp
 Planning is important, but as Eisenhower once observed "planning for combat is important, but as soon as the first shot is fired, your plans go up in smoke". -> translation: go with the flow. 
 
 ### A new way of thinking
+
+Basically to erradicate the problem of ineficciency, budget, and time, it was necessary to create a new way of thinking. This way was called **scrum**. A new way of organizing human endavour.
+
+The term comes from the game of rugby, and it refers to the way a team works together to move the ball down the field. *Careful alignment, unity of purpose, and clarity of goal come together*. It’s the perfect metaphor for what Jeff was looking for.
+
+It was important the fact of how people actually work than how they say they work.
+
+Two very important aspects of scrum **uncertainity** and **creativity**. The Scrum framework harnesses how teams actually work and gives them the tools to self-organize and rapidly improve both speed and quality of work.
