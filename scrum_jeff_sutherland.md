@@ -11,6 +11,8 @@ They were using the **"waterfall method"**.
 
 Which is a method from the first World War, it was created in 1910. -> Still being used in the 21st century!
 
-This lead to "the reports become, more important than the reality they’re supposed to describe, and if there’s a discrepancy, reality is the problem, not the charts".
+In this cas *"the reports become, more important than the reality they’re supposed to describe, and if there’s a discrepancy, reality is the problem, not the charts"*.
 
 Planning is important, but as Eisenhower once observed "planning for combat is important, but as soon as the first shot is fired, your plans go up in smoke". -> translation: go with the flow. 
+
+### A new way of thinking
