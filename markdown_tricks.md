@@ -8,8 +8,7 @@ Now lets see a bulleted list
 - bullet three
 
 I also like to add links to [cat videos](https://www.youtube.com/watch?v=tntOCGkgt98)
-
-´´´javascript
+```javascript
 var lizHuman= {
 	firstName: "liz",
 	lastName: "parody",
